@@ -1,0 +1,31 @@
+# 📋 Backlog do Projeto
+
+## HU01 - Buscar livros
+- **Status:** Implementado
+- **Descrição:** Usuário pode buscar livros digitando título. Integração com API pública.
+- **Próximos passos:** Melhorar desempenho e feedback de busca.
+
+## HU02 - Visualizar detalhes do livro
+- **Status:** Implementado
+- **Descrição:** Ao clicar no livro, exibir detalhes em página separada.
+- **Próximos passos:** Adicionar mais informações, como avaliações e disponibilidade.
+
+## HU03 - Login mockado e estante separada por usuário
+- **Status:** Em progresso
+- **Descrição:** Sistema de autenticação simples (mockado) com estante individual.
+- **Próximos passos:** Finalizar fluxo de logout e persistência de sessão.
+
+## HU04 - Interface responsiva para mobile
+- **Status:** Implementado
+- **Descrição:** Layout adaptável para diferentes tamanhos de tela.
+- **Próximos passos:** Ajustar espaçamentos e usabilidade em telas pequenas.
+
+## HU05 - Feedback visual
+- **Status:** Implementado
+- **Descrição:** Mensagens de carregamento, erro e sucesso.
+- **Próximos passos:** Melhorar design e transições.
+
+## HU06 - Atualização reativa
+- **Status:** Em progresso
+- **Descrição:** Estante atualiza automaticamente após adição ou remoção de livros.
+- **Próximos passos:** Implementar otimização para evitar recarregamentos desnecessários.

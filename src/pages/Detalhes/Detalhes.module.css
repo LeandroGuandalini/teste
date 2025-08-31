@@ -1,0 +1,50 @@
+.main {
+  max-width: 700px;
+  margin: 16px auto;
+  padding: 10px 20px;
+}
+
+.volter {
+  display: inline-block;
+  margin-bottom: 16px;
+  color: #0f4c81;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.voltar:hover {
+  text-decoration: underline;
+}
+
+.titulo {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0f4c81;
+  margin-bottom: 0.3rem;
+}
+
+.autor {
+  color: #555;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.capa {
+  width: 128px;
+  height: 192px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.descricao {
+  line-height: 1.5;
+  color: #333;
+}
+
+.loading,
+.erro {
+  text-align: center;
+  margin: 2rem;
+  color: #555;
+}
